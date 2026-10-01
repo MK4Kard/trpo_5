@@ -36,6 +36,5 @@ while ((x % n) != 0 && n * 10 >= x)
 }
 
 Console.WriteLine($"Сумма равна: {x}");
-Console.ReadKey();
 
 return 0;
